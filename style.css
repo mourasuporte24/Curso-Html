@@ -5,6 +5,13 @@ main{
 }
 
 
+.topo{
+
+    background-color: rgb(169, 28, 174);
+    color: whitesmoke;
+}
+
+
    a{
 
     margin-left: 120px;
@@ -15,6 +22,7 @@ main{
     color:blueviolet;
     font-size: 25px;
     font-style:inherit;
+
 
 
     text-decoration: none;
