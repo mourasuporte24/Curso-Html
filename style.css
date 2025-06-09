@@ -7,25 +7,33 @@ main{
 
 .topo{
 
-    background-color: rgb(169, 28, 174);
-    color: whitesmoke;
+    
+    background: url(/RocketSeat/Curso-Html/img/logo.png) no-repeat;
+    padding-box:10px,0px,0px,0px,35px;
+      margin-left: 25px;
+   font-family:monospace;
+   color: aliceblue;
+  
+   padding: 22px;
+   size: 100%;
+  
+
+
 }
 
 
    a{
 
-    margin-left: 120px;
-    margin-right: 2px;
-    left: auto;
-    text-align: center;
-    text-overflow: ellipsis;
-    color:blueviolet;
-    font-size: 25px;
+    
+    margin-left: 450px;
+    text-spacing-trim: 10px;
+    
+    font-size: 20px;
+    color: aliceblue;
     font-style:inherit;
-
-
-
-    text-decoration: none;
+   text-align: center;
+   text-decoration: none;
+ 
 }
 
 
